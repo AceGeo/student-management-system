@@ -1,0 +1,9 @@
+This is a comprehensive web application that utilizes the Spring Framework to implement a student management system, encompassing both the front-end (using Thymeleaf) and the back-end (using Java and Spring).
+
+The project's back-end is written in Java and makes use of the Spring Boot framework. The front-end section is developed using Thymeleaf and is entirely implemented within IntelliJ. Additionally, a MySQL database has been created to store and retrieve data.
+
+A CRUD system is employed, allowing effective database updates, along with functionalities for data modification, deletion, and retrieval. The system effectively manages student data in the database.
+
+For the front-end, an existing template from Bootstrap is used, resulting in a user-friendly and visually appealing design.
+
+The interaction between the back-end and front-end is facilitated through appropriate forms using Thymeleaf, enabling seamless data exchange and communication.
